@@ -4,11 +4,15 @@
 
 This notebook provides an in-depth analysis of supply chain data to identify key performance indicators, optimize logistics, and enhance overall efficiency. The analysis aims to uncover insights into product performance, shipping logistics, and cost management.
 
+
 ## Packages Required
 
 - **Pandas**: For data manipulation and analysis.
 - **Plotly**: For interactive and sophisticated visualizations.
 - **NumPy**: For numerical operations.
+
+NOTE: As the Exploratory data analysis was done through Plotly, GitHub preview doesn't support the package, so for the graphs, download the notebook and run it on your local machine
+
 
 ## Conclusion
 
